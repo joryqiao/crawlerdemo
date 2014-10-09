@@ -1,0 +1,151 @@
+root
+root->Bathing & Skin Care
+root->Bathing & Skin Care->Bathroom Safety
+root->Bathing & Skin Care->Grooming & Healthcare Kits
+root->Bathing & Skin Care->Soaps & Cleansers
+root->Bathing & Skin Care->Washcloths & Towels
+root->Bathing & Skin Care->Bathing Tubs & Seats
+root->Bathing & Skin Care->Skin Care
+root->Bathing & Skin Care->Shampoo
+root->Bathing & Skin Care->Bubble Bath
+root->Bathing & Skin Care->Aromatherapy
+root->Bathing & Skin Care->Conditioners
+root->Bathing & Skin Care->Non-Slip Bath Mats
+root->Bathing & Skin Care->Gift Sets
+root->Bathing & Skin Care->Travel Bathing Kits
+root->Safety
+root->Safety->Bathroom Safety
+root->Safety->Electrical Safety
+root->Safety->Cabinet Locks & Straps
+root->Safety->Gates & Doorways
+root->Safety->Edge & Corner Guards
+root->Safety->Kitchen Safety
+root->Safety->Monitors
+root->Safety->Rails & Rail Guards
+root->Safety->Sleep Positioners
+root->Safety->Harnesses & Leashes
+root->Safety->Outdoor Safety
+root->Safety->Safety Caps
+root->Safety->Crib Netting
+root->Nursery
+root->Nursery->Bedding
+root->Nursery->Furniture
+root->Nursery->Nursery Décor
+root->Baby & Toddler Toys
+root->Baby & Toddler Toys->Birth to 24 Months
+root->Baby & Toddler Toys->2 to 4 Years
+root->Baby & Toddler Toys->5 to 7 Years
+root->Baby & Toddler Toys->8 to 13 Years
+root->Baby & Toddler Toys->14 Years & Up
+root->Baby & Toddler Toys->Boys
+root->Baby & Toddler Toys->Girls
+root->Baby & Toddler Toys->Music & Sound
+root->Baby & Toddler Toys->Teethers
+root->Baby & Toddler Toys->Balls
+root->Baby & Toddler Toys->Mirrors
+root->Baby & Toddler Toys->Bath Toys
+root->Baby & Toddler Toys->Rattles
+root->Baby & Toddler Toys->Crib Toys & Attachments
+root->Baby & Toddler Toys->Stacking & Nesting Toys
+root->Baby & Toddler Toys->Toy Gift Sets
+root->Baby & Toddler Toys->Car Seat & Stroller Toys
+root->Baby & Toddler Toys->Shape Sorters
+root->Baby & Toddler Toys->Activity Play Centers
+root->Baby & Toddler Toys->Rocking & Spring Ride-Ons
+root->Baby & Toddler Toys->Push & Pull Toys
+root->Baby & Toddler Toys->Indoor Climbers & Play Structures
+root->Baby & Toddler Toys->Spinning Tops
+root->Baby & Toddler Toys->Blocks
+root->Baby & Toddler Toys->Teaching Clocks
+root->Baby & Toddler Toys->Hammering & Pounding Toys
+root->Baby & Toddler Toys->Stick Horses
+root->Gear
+root->Gear->Birth to 3 Months
+root->Gear->4 to 7 Months
+root->Gear->8 to 11 Months
+root->Gear->12 to 23 Months
+root->Gear->24 Months & Up
+root->Gear->Backpacks & Carriers
+root->Gear->Baby Gyms & Playmats
+root->Gear->Walkers
+root->Gear->Activity Centers & Entertainers
+root->Gear->Playards
+root->Gear->Swings, Jumpers & Bouncers
+root->Gear->Shopping Cart Covers
+root->Gear->Playard Bedding
+root->Gear->Harnesses & Leashes
+root->Gear->Baby Seats
+root->Gear->Travel Beds
+root->Gear->Bicycle Child Seats & Trailers
+root->Potty Training
+root->Potty Training->Training Pants
+root->Potty Training->Potties & Seats
+root->Potty Training->Step Stools
+root->Potty Training->Seat Covers
+root->Potty Training->Travel Potties
+root->Feeding
+root->Feeding->Bottle-Feeding
+root->Feeding->Gift Sets
+root->Feeding->Food, Mills & Storage
+root->Feeding->Breastfeeding
+root->Feeding->Solid Feeding
+root->Feeding->Highchairs & Booster Seats
+root->Feeding->Pacifiers & Accessories
+root->Feeding->Pillows & Stools
+root->Feeding->Vitamins
+root->Health & Baby Care
+root->Health & Baby Care->Nail Care
+root->Health & Baby Care->Teethers
+root->Health & Baby Care->Teething Relief
+root->Health & Baby Care->Toothbrushes
+root->Health & Baby Care->Thermometers
+root->Health & Baby Care->Sun Protection
+root->Health & Baby Care->Nasal Aspirators
+root->Health & Baby Care->Humidifiers & Vaporizers
+root->Gifts
+root->Gifts->Birth to 3 Months
+root->Gifts->4 to 7 Months
+root->Gifts->8 to 11 Months
+root->Gifts->12 to 23 Months
+root->Gifts->24 Months & Up
+root->Gifts->Gift Baskets
+root->Gifts->Gift Sets
+root->Gifts->Keepsakes
+root->Gifts->Rattles
+root->Gifts->Albums, Frames & Journals
+root->Gifts->Toy Banks
+root->Diapering
+root->Diapering->Wipes & Holders
+root->Diapering->Powders
+root->Diapering->Disposable Diapers
+root->Diapering->Diaper Creams & Ointments
+root->Diapering->Cloth Diapers
+root->Diapering->Gift Sets
+root->Diapering->Cloth Diaper Accessories
+root->Diapering->Changing Table Pads & Covers
+root->Diapering->Diaper Pails & Refills
+root->Diapering->Diaper Bags
+root->Diapering->Diaper Changing Kits
+root->Diapering->Changing Tables
+root->Diapering->Portable Changing Pads
+root->Diapering->Diaper Stackers & Caddies
+root->Car Seats & Accessories
+root->Car Seats & Accessories->Accessories
+root->Car Seats & Accessories->Car Seats
+root->Strollers
+root->Strollers->Accessories
+root->Strollers->Standard
+root->Strollers->Travel Systems
+root->Strollers->Joggers
+root->Strollers->Lightweight
+root->Strollers->Tandem
+root->Strollers->Prams
+root->Baby Stationery
+root->Baby Stationery->Invitations
+root->Baby Stationery->Thank You Cards
+root->Baby Stationery->Birth Announcements
+root->Pregnancy & Maternity
+root->Pregnancy & Maternity->Maternity Pillows
+root->Pregnancy & Maternity->Breastfeeding Pillows & Stools
+root->Pregnancy & Maternity->Family Planning Tests
+root->Pregnancy & Maternity->Prenatal Monitoring Devices

@@ -21,7 +21,7 @@ public class BabyProductsPageVisitor implements PageVisitor {
 		String content = page.getContent();
 		//System.out.println("Content is: \n" + content);
 		
-		String file = "pageContent.html";
+		String file = "src/test/resources/pageContent3.html";
 		FileOutputStream output = null;
 		try {
 			output = new FileOutputStream(file);
